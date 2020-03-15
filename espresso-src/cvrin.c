@@ -3,8 +3,8 @@
     purpose: cube and cover input routines
 */
 
+#include <string.h>
 #include "espresso.h"
-#include "strdup.h"
 
 static bool line_length_error;
 static int lineno;

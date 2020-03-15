@@ -1,5 +1,6 @@
+#include <string.h>
+
 #include "espresso.h"
-#include "strdup.h"
 
 int **find_pairing_cost(pPLA PLA, int strategy);
 
